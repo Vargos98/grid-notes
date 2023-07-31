@@ -34,6 +34,12 @@ const EditNote = ({notes, setNotes}) => {
 
   }
 
+  const handleDelete = () =>{
+    const newNotes = notes.filter(item =>item.id != id);
+    setNotes(newNotes);
+    navigate('/');
+  }
+ 
 
 
 
@@ -44,7 +50,7 @@ const EditNote = ({notes, setNotes}) => {
       <header className="create-note__header">
         <Link to='/' className='btn'><IoIosArrowBack /></Link>
         <button className='btn lg primary' onClick={handleForm}>Save</button>
-        <button className='btn danger'><RiDeleteBin6Line /></button>
+        <button className='btn danger' onClick={handleDelete}><RiDeleteBin6Line /></button>
 
       </header>
       <form action="" className="create-note__form" onSubmit={handleForm}>
