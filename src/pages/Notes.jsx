@@ -18,7 +18,7 @@ const Notes = ({notes}) => {
 
         </div>
 
-        <Link className='btn add__btn'><BsPlusLg/></Link>
+        <Link to="/create-note" className='btn add__btn'><BsPlusLg/></Link>
     </section>
   )
 }
