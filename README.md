@@ -3,6 +3,8 @@
 
 The live project link :  https://grid-notes.vercel.app/
 
+![Screenshot (27)](https://github.com/Vargos98/grid-notes/assets/127929058/2fedc06f-a307-4c2e-aeb6-1123eee4b3a5)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
