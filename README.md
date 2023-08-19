@@ -4,6 +4,10 @@
 The live project link :  https://grid-notes.vercel.app/
 
 ![Screenshot (37)](https://github.com/Vargos98/grid-notes/assets/127929058/317d42fc-d7c1-4887-a72f-b895f02999ee)
+![Screenshot (38)](https://github.com/Vargos98/grid-notes/assets/127929058/1a47e3ed-2528-4996-9936-1c6ed833daa3)
+![Screenshot (39)](https://github.com/Vargos98/grid-notes/assets/127929058/48c9c06c-034f-498e-b4b8-1fa2cdfbe5d4)
+
+
 
 
 
