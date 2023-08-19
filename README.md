@@ -3,7 +3,8 @@
 
 The live project link :  https://grid-notes.vercel.app/
 
-![image](https://github.com/Vargos98/grid-notes/assets/127929058/ffdfa842-5823-4c75-9d94-bc81c7bf2cc3)
+![Screenshot (37)](https://github.com/Vargos98/grid-notes/assets/127929058/317d42fc-d7c1-4887-a72f-b895f02999ee)
+
 
 
 
